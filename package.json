@@ -1,0 +1,14 @@
+{
+  "name": "matchtv-onair",
+  "version": "0.0.1",
+  "description": "matchtv.ru broadcast in kiosk mode",
+  "license": "WTFPL",
+  "author": "Konstanin Ilchenko <kyle.mom.is.awesome@gmail.com>",
+  "main": "js/main.js",
+  "scripts": {
+    "start": "electron js/main.js"
+  },
+  "devDependencies": {
+    "electron-prebuilt": "^0.36.0"
+  }
+}
